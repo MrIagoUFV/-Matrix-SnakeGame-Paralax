@@ -2,6 +2,9 @@
 
 Este projeto é uma implementação moderna e estilizada do clássico jogo da cobrinha, combinado com um impressionante efeito visual inspirado no filme Matrix.
 
+![image](https://github.com/user-attachments/assets/19c10131-bde7-47f6-a19e-a0deb422b99f)
+
+
 ## Características
 
 - Jogo da cobrinha clássico com controles responsivos
